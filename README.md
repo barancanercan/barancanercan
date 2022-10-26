@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barancanercan
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning SQL.
+- 🌱 I’m currently learning Git & GitHub 
 - 📫 How to reach me: barancanercan@gmail.com
 - ✨ Visit to my blog: https://barancanercan.medium.com/
 
