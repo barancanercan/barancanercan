@@ -1,119 +1,131 @@
-# Hi there! 👋 I'm Baran Can Ercan
-
 <div align="center">
-  
-### Senior Data Scientist | AI/ML Enthusiast | Public Sector Innovation
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barancanercan)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://barancanercan.medium.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:barancanercan@gmail.com)
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=LLM+Engineer;Multi-Agent+Systems+%7C+RAG+Pipelines;Production+AI+%E2%80%94+Not+Demos.)](https://git.io/typing-svg)
+
+<br/>
+
+**`Baran Can Ercan`** — AI / LLM Engineer @ Ankara Metropolitan Municipality
+
+*Building production-grade AI systems for public sector impact.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/barancanercan)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@barancanercan)
+[![PyPI - vcsx](https://img.shields.io/badge/PyPI-vcsx-blue?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/vcsx)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/barancanercan)
 
 </div>
 
-## 🚀 About Me
+---
 
-Senior Data Scientist at **Ankara Metropolitan Municipality** with a passion for leveraging AI and machine learning to solve real-world problems and improve public services. I hold a Master's degree in Statistics with specialization in NLP/AI, and I'm currently focused on advancing LLM applications in municipal services.
+## 🧠 About
 
-### 🎯 What I Do
-- **Predictive Analytics**: Developed election forecasting models with 98.8% accuracy using advanced ML techniques
-- **NLP & LLMs**: Implementing large language models for call center optimization and citizen service enhancement  
-- **Public Policy Impact**: Using data science to influence municipal strategies and improve urban infrastructure
-- **Community Engagement**: Active blogger and speaker, sharing knowledge through career talks and data science communities
+LLM Engineer with **4+ years** in applied ML/NLP and **1+ year** specializing in production AI system design.
+
+- 🏗️ **Shipped** end-to-end systems — multi-agent orchestration, RAG pipelines, agentic automation
+- 🔬 **Researched** — 360-experiment factorial study: ReWOO vs. CoT vs. ReAct vs. Reflexion (ANOVA + scipy)
+- 📦 **Open source** — [`vcsx`](https://pypi.org/project/vcsx) on PyPI: AI coding environment CLI for 10 AI tools
+- 🏛️ **Public sector** — election forecasting model with **98.8% accuracy** at 5M+ population scale
+- 📝 **Writer** — empirical LLM research & multi-agent architectures on [Medium](https://medium.com/@barancanercan)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **[vcsx](https://pypi.org/project/vcsx)** — AI Coding Environment CLI | Python, Click, PyPI | Generates CLAUDE.md, skills, hooks & agents for 10 AI tools in <2s · 22 skills · 10 presets · Homebrew + npx |
+| **MizanAI** — Multi-Agent Political Intelligence | LangGraph, FastAPI, Next.js, ChromaDB | 5-agent pipeline (Supervisor→Researcher→Analyst→Writer→Critic) · Tool-aug RAG · 8 Turkish parties · SSE streaming |
+| **S.A.M** — Social Media Intelligence SaaS | FastAPI, Next.js, PostgreSQL, Ollama | Ensemble intent detection (Keyword+Rules+LLM) · 86 council members · 17K+ tweets · Green/Red/Grey Team LLM framework |
+| **sam-scraper** — Multi-Tenant Social Data Collector | httpx, Playwright, APScheduler, SQLite/PG | GraphQL interception for X/Twitter · Mobile API for Instagram · CLI-first multi-tenant architecture |
+| **"Bir Modeli Zeki Yapan Şey Ne?"** — Empirical Study | Python, FAISS, scipy, ANOVA | 360 runs × 3 models × 4 strategies × 3 RAG depths · ReWOO = 100% accuracy · RAG paradox confirmed |
+| **OBF v3.0** — Autonomous Knowledge Factory | Claude Code, ChromaDB, Gemma 4 | 23 slash commands · 28 engine modules · 8-metric quality scoring · Skill autoresearch loop |
+| **PageGeneralOCR** — Historical Military Document RAG | Qwen2.5-VL, Qdrant, MarkItDown, GPT-4o | Ottoman-script OCR · Unit-focused querying · Multi-layer memory (conversation + corpus + ontology) |
+
+---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+<div align="center">
 
-### NLP & AI
-![BERT](https://img.shields.io/badge/-BERT-FF6B6B?style=flat)
-![LLaMA](https://img.shields.io/badge/-LLaMA-4ECDC4?style=flat)
-![HuggingFace](https://img.shields.io/badge/-🤗%20HuggingFace-FFD93D?style=flat)
-![ChatGPT API](https://img.shields.io/badge/-ChatGPT%20API-412991?style=flat)
+**AI / LLM**
 
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3B5A?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-## 🏆 Key Projects & Achievements
+**Vector & Retrieval**
 
-### 🗳️ Election Forecasting System
-- Developed predictive models achieving **98.8% accuracy** for 2024 Local Elections
-- Utilized Cozmic Bazaar Theory and advanced ML algorithms
-- Directly influenced municipal strategies and decision-making
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1A1A2E?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0066CC?style=flat-square&logoColor=white)
 
-### 🏗️ Smart Infrastructure Optimization  
-- Implemented LLM-based models for call center data analysis
-- Optimized road and asphalt repair scheduling
-- Enhanced urban infrastructure planning efficiency
+**Backend & Data**
 
-### 🚍 Public Transportation Enhancement
-- Analyzed Başkent 153 complaint data using NLP techniques
-- Restructured bus routes and schedules based on citizen feedback
-- Improved service efficiency during peak hours
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 💧 Water Usage Anomaly Detection
-- Developed statistical rule-based detection system using LSTM and RNN
-- Implemented at ASKI for illegal water usage detection
-- Significantly improved resource management
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barancanercan&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barancanercan&layout=compact&theme=radical&hide_border=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=barancanercan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barancanercan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=barancanercan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
-## 🌱 Currently Learning
+---
 
-- **Advanced LLM Architectures**: Exploring cutting-edge transformer models and their applications
-- **MLOps Best Practices**: Implementing robust ML pipelines for production environments
-- **Generative AI**: Developing innovative solutions using generative models for municipal services
-
-## 📝 Recent Blog Posts
+## ✍️ Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
-- Check out my latest insights on [Medium](https://barancanercan.medium.com/)
-- Topics: Machine Learning, NLP, Public Sector AI, Data Science Best Practices
+> 📌 *Auto-updated via GitHub Actions — latest empirical LLM research & multi-agent architecture posts*
 <!-- BLOG-POST-LIST:END -->
 
-## 🎓 Education & Certifications
+→ [Read all articles on Medium](https://medium.com/@barancanercan)
 
-- **M.Sc. Statistics (NLP/AI)** - Ege University (2024)
-- **B.Sc. Statistics** - Ege University (2020)
-- **Production Level Data Science** - Miuul (2023)
-- **Natural Language Processing (NLP)** - Miuul (2024)
-- **Deep Learning Bootcamp** - Global AI Hub (2022)
+---
 
-## 🤝 Community Involvement
+## 🏆 Highlights
 
-- **Data Monitoring Coordinator** - Turkish Elections 2023-2024
-- **Earthquake Relief Coordinator** - February 6th Disaster Response
-- **Guest Speaker** - Career talks at universities and data science events
-- **Open Source Contributor** - Maintaining Şeffaf Ankara, Turkey's first map-based open data platform
-
-## 📫 Let's Connect!
-
-I'm always interested in collaborating on meaningful data science projects, especially those that can make a positive impact on society. Whether you're working on public sector innovation, NLP applications, or just want to discuss the latest in AI/ML - feel free to reach out!
-
-**"Harnessing Data for Public Good"** 🌟
+```
+📦  vcsx             pip install vcsx   — AI coding env CLI, 10 tools, 22 skills, 10 presets
+🔬  360-experiment   ReWOO = 100%       — Orchestration strategy > model size (ANOVA confirmed)
+🏛️  98.8% accuracy   2024 elections     — 5M+ population scale forecasting
+🤖  86 council members tracked          — S.A.M: 17K+ tweets, LLM Green/Red/Grey analysis
+📚  M.Sc. Statistics, NLP/AI spec.      — Ege University
+```
 
 ---
 
 <div align="center">
 
-*"Data science is not just about algorithms and models; it's about creating solutions that improve lives and communities."*
+*"Orchestration strategy matters more than model size."*
+— From 360-experiment empirical study
 
-⭐ From [barancanercan](https://github.com/barancanercan)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=barancanercan&color=00d4ff&style=flat-square&label=Profile+Views)
 
 </div>
