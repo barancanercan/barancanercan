@@ -86,12 +86,12 @@ LLM Engineer with **4+ years** in applied ML/NLP and **1+ year** specializing in
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=barancanercan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barancanercan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src=".github/assets/stats.svg" />
+<img height="160" src=".github/assets/langs.svg" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=barancanercan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src=".github/assets/streak.svg" />
 
 </div>
 
